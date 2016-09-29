@@ -1,19 +1,19 @@
 # victor-matheus
 Projeto do semestre
 
-Tema: Músicas em geral
+Tema: Homem de Ferro (super-herói)
 
-Público-alvo: Qualquer pessoa que acesse a internet e quer descobrir músicas novas e compartilhar.
+Público-alvo: Pessoas interessadas no herói 
 
-Objetivos do site: Compartilhar músicas de seu interesse, e descobrir o interesse de outras pessoas.
+Objetivos do site: Mostrar curiosidades e detalhes sobre o super-herói, como por exemplo os filmes, as armaduras, os vilões e etc.
 
-Funcionalidades do site: Compartilhar músicas de seu gosto musical, comentar o interesse de outros usuários.
+Funcionalidades do site: Vizualizar as curiosidades do site, fazer cadastro, comentar sobre as curiosidades.
 
-Usuário Administrador: Remover e organizar as músicas compartilhadas.
+Usuário Administrador: Remover e organizar os comentários.
 
-Usuário Logado: Compartilhar e comentar uma música.
+Usuário Logado: Fazer comentários.
 
-Usuário Visitante: Navegar no site e ver as músicas compartilhadas.
+Usuário Visitante: Navegar no site e ver os comentários dos usuários.
 
 Mapa de Navegação:
 

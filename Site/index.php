@@ -27,7 +27,7 @@
         </section> 
             <div class="x"></div>
         <footer>
-            <p>Desenvolvidor por Victor Cardoso e Victor Martins</p>
+            <p>Desenvolvidor por Victor Cardoso e Victor  Martins</p>
         </footer>
     </body>
 </html>
